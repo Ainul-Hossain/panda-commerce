@@ -1,1 +1,1 @@
-# galaxy-commerce
+# panda-commerce
