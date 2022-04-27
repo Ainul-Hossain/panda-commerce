@@ -1,0 +1,65 @@
+.carousel-item{
+    background-color: #FEEAE9;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+
+.price{
+    color: #FF277C;
+}
+
+.buy-now{
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 5px;
+    color: white;
+    padding: 9px 25px;
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1{
+    background-color: #FFA500;
+}
+
+.cat-2{
+    background-color: #DA70D6;
+}
+
+.cat-3{
+    background-color: #0000FF;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.categories h1{
+    color: white;
+}
+
+#shoes .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.touch{
+    min-height: 300px;
+    background-color: #FCEAE8;
+}
+
+.touch p{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+}
+
+#backpack .card-footer{
+    border: none;
+    background-color: white;
+}
